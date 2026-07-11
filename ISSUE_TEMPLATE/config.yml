@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security Vulnerability Report
+    url: https://github.com/0x3-team/.github/blob/main/SECURITY.md
+    about: Report security vulnerabilities following our disclosure policy.
+  - name: 0x3.dev Website
+    url: https://0x3.dev
+    about: Visit our website for more information.
