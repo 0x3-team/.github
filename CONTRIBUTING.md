@@ -4,13 +4,16 @@ Thank you for your interest in contributing. This document outlines our standard
 
 ## Getting Started
 
-1. **Fork** the repository you want to contribute to
-2. **Clone** your fork locally
+1. **Get repository access**:
+   - For a public repository, fork it to your account.
+   - For a private repository, use an authorized organization branch or
+     coordinate access with the maintainers.
+2. **Clone** the repository or your fork locally.
 3. **Create a branch** for your work: `git checkout -b feat/your-feature-name`
-4. **Make your changes** following our code standards
-5. **Test** your changes locally
-6. **Commit** with a clear message
-7. **Push** and open a Pull Request
+4. **Make your changes** following our code standards.
+5. **Test** your changes locally.
+6. **Commit** with a clear message.
+7. **Push** and open a pull request.
 
 ## Branch Naming
 
