@@ -43,13 +43,14 @@ Out of scope:
 - Automated scanner reports without proof of exploitability
 - Issues in third-party dependencies (report upstream)
 
-## Security Features Enabled
+## Security Baseline
 
-All repositories created in this organization have the following enabled by default:
-- Dependabot security alerts
-- Dependabot security updates
-- Secret scanning with push protection
-- Dependency graph
+- Two-factor authentication is required for organization members.
+- Repository access follows the organization’s least-privilege defaults.
+- Each repository documents and verifies the controls its plan, visibility, and
+  delivery model support.
+- Dependency, secret-scanning, and push-protection features are enabled and
+  verified per repository where GitHub makes them available.
 
 ## Contact
 
