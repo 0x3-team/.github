@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Feature request
 about: Suggest a new feature or enhancement
 title: "[FEAT] "
 labels: enhancement
